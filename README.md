@@ -1,5 +1,5 @@
 # Clustering-iris-classification
-Clustering iris classification(Artificial intelligence)
+Clustering iris classification(Artificial intelligence)  
 1.1	鸢尾花聚类问题描述  
 鸢尾花聚类问题是人工智能数据分析的经典案例，其中使用的数据集为iris数据集，反映了3种鸢尾花在花萼长度、花萼宽度、花瓣长度、花瓣宽度之间的差异，该数据集包含150个观测，每种花50个样本。该问题要求利用数据集的花萼长度、花萼宽度、花瓣长度、花瓣宽度四个维度完成对三个种类的花的分类。  
 1.2	鸢尾花聚类问题分析和解决思路  
